@@ -109,5 +109,16 @@ Use these prompts in tools like Runway Gen-2, Pika Labs, or Luma. Set duration ~
 4. Loudness normalize to -14 LUFS.
 5. Export 4K (3840×2160) or 1080p master at 25 fps.
 
+## 9. Deliverable Status & How to Build the Actual Video
+- **What’s already in this repo:** this production brief (`beyond_the_safari_video_plan.md`) and matching subtitles (`beyond_the_safari_captions.srt`). They contain everything needed for narration, visuals, prompts, pacing, and captions.
+- **What is *not* checked in:** the rendered MP4. The containerized environment used for this repository does not include video-rendering tools (e.g., FFmpeg, Runway, Pika) nor does it have external network/package access, so the final video cannot be generated or uploaded directly here.
+- **How to create the video quickly:**
+  1. Generate or capture the 13 clips described in Section 4 using your preferred AI/video tool.
+  2. Record the narration in your voice (use the script in Section 3) and place it on the timeline first.
+  3. Lay the clips in order following the Scene Breakdown table and add the suggested titles/overlays.
+  4. Import `video_assets/beyond_the_safari_captions.srt` for instant subtitles.
+  5. Follow the Export Checklist above to master the file.
+- **Need a placeholder export?** Once FFmpeg or any NLE is available locally, drop the narration + clips into a sequence using the timings in Section 2 to render a reference draft. No additional creative decisions are required.
+
 ---
 Use alongside the `beyond_the_safari_captions.srt` file for subtitles.
