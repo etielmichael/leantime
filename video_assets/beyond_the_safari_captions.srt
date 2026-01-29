@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:05,000
+When the world imagines Kenya, it sees safaris, savannahs, and record-breaking runners.
+
+2
+00:00:05,000 --> 00:00:10,000
+But beyond the postcard is a nation building the future.
+
+3
+00:00:10,000 --> 00:00:15,000
+This is "Beyond the Safari"—ten Kenyan innovations shaking the world.
+
+4
+00:00:15,000 --> 00:00:23,000
+M-Pesa turned basic phones into banks, igniting a financial revolution studied from Harvard to Mumbai.
+
+5
+00:00:23,000 --> 00:00:31,000
+Ushahidi crowdsources truth, helping responders map disasters from Haiti to the Philippines.
+
+6
+00:00:31,000 --> 00:00:38,000
+M-Kopa gives families affordable solar power paid daily through mobile money, lighting millions of homes.
+
+7
+00:00:38,000 --> 00:00:45,000
+BRCK delivers rugged internet routers built for dust, heat, and power cuts, connecting the last mile.
+
+8
+00:00:45,000 --> 00:00:53,000
+Kenya’s conservationists deploy drones, GPS collars, and AI listening posts to protect endangered wildlife.
+
+9
+00:00:53,000 --> 00:01:01,000
+Taifa-1, the country’s first homegrown satellite, tracks crops, climate, and a rising space industry.
+
+10
+00:01:01,000 --> 00:01:08,000
+Sand dams turn dry riverbeds into hidden reservoirs, a model now copied across the globe.
+
+11
+00:01:08,000 --> 00:01:15,000
+M-Tiba’s mobile health wallet helps citizens save, pay, and receive aid at trusted clinics.
+
+12
+00:01:15,000 --> 00:01:23,000
+In the Rift Valley, geothermal steam powers the grid as Kenyan engineers train the world.
+
+13
+00:01:23,000 --> 00:01:32,000
+And in Nairobi’s Silicon Savannah, coders, creators, and dreamers are building Africa’s next tech giant.
+
+14
+00:01:32,000 --> 00:01:40,000
+Beyond the safari lies a nation of innovators. This is Kenya—and the future is just getting started.
